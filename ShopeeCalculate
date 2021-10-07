@@ -24,4 +24,4 @@ function Faqih(next){
 		}
 	});
 }
-calculate(0);
+Faqih(0);
