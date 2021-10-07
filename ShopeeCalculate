@@ -17,7 +17,7 @@ function Faqih(next){
 				order++;
 	    			console.log(order + ":", "RM " + total_temp + " - ", value.info_card.order_list_cards[0].items[0].name);
 			}
-			calculate(next_offset);
+			Faqih(next_offset);
 		} else {
 			console.log('Calculation done!!!');
 			console.log('TOTAL AMOUNT YOU SPEND IS RM ' + total);
