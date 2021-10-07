@@ -20,7 +20,7 @@ function Faqih(next){
 			calculate(next_offset);
 		} else {
 			console.log('Calculation done!!!');
-			console.log('TOTAL AMOUNT YOU SPEND IS RM ' + Math.round(total * 100) / 100);
+			console.log('TOTAL AMOUNT YOU SPEND IS RM ' + total);
 		}
 	});
 }
