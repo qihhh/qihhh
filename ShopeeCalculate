@@ -1,6 +1,6 @@
 var total = 0;
 var order = 0;
-function calculate(next){
+function Faqih(next){
 	var opts = {
 		method: 'GET',      
 		headers: {}
