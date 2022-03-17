@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qihhh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on intel
+
 
 
 <!---
